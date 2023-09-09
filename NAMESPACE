@@ -18,4 +18,6 @@ importFrom(stats,rnorm)
 importFrom(stats,runif)
 importFrom(stats,uniroot)
 importFrom(stats,var)
+
 useDynLib(leptokurticMixture, .registration = TRUE)
+

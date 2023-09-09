@@ -1,11 +1,10 @@
-fe2b87952f314de83ce840ba2b29e606 *DESCRIPTION
-27a4b640628ee67d3b3371a6a9d2d822 *NAMESPACE
+a33bd094f1dc0f702a6346509f4eab34 *ChangeLog
+e5a5ba028326b48c9742162631b3f18c *DESCRIPTION
+76fb39fdccad0fe58ba780f327f47fdb *NAMESPACE
 6ac80cfb52f0b9e793cddc694fb7cbf1 *R/leptokurticMixture.R
 1f4ce50b0feb2c670481d84383c7024e *man/EM.Rd
 8f9297f0ac4b6fb399ae93880806df58 *man/compareEstimation.Rd
 4dd603d8f80a3ac0b1fc86118f9aa737 *man/pmln.Rd
 58f9523db62e9d7d50509ab4d4fc927c *man/rmln.Rd
-2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
-2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars.R
-3766b901ddf1c3efc294daa55c756e28 *src/functions.h
-d5c3f1db479520446fc2cb5d1f13c194 *src/leptokurticMixture.c
+7955a5caa419efa0ea7d39c2c7387ff8 *src/Makevars
+0601457caf8e6d6b1eee776ecfe3b5e1 *src/leptokurticMixture.c
